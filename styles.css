@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+}
+
+body{
+    text-align: center;
+}
+
+h1, h2, h3 {
+    background-color: orangered;
+    color: black;
+}
+
+ul{
+    background-color: blanchedalmond;
+    color: rgb(78, 51, 16);
+    text-align: center;
+}
+
+ol{
+    background-color: green;
+    color: black;
+}
+
+#forcePos{
+    text-align: end;
+}
+
+p{
+    background-color: brown;
+}
